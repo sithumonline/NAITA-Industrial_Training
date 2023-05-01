@@ -51,9 +51,28 @@ All the Employees in the ACCIMT are compensated by the national Treasury. Becaus
 ### 1.6.3 Leaves methods
 
 As in any government institute, employees get
+
 - Annual Leaves 14 Days (This 14 days Leaves include Working Days only)
-- Medical Leaves 21 Days.
-- Casual Leaves 07 Day.
+- Medical Leaves 21 Days
+- Casual Leaves 07 Day
+
+The procedure of leaves requesting by the paper application was stopped before several years and
+at the present all the leaves should be requested by online. Holiday The following are the current 8
+Statutory Public/ Mercantile holidays of the year
+
+- Tamil Thai Pongal Day.
+- National day.
+- Day prior to Sinhala & Tamil New Year.
+- Sinhala & Tamil New Year.
+- May Day (1st of May).
+- Day following Weak full moon poxa day.
+- Holy Prophet's Birth Day.
+- May day.
+
+In Special Condition,<br>
+After informing the respective Company head and signing in the leave register, project
+Engineers can go out to buy equipment, to visit factories and sites, to provide consultancies
+in the duty time for research purposes.
 
 ### 1.6.4 Daily Schedule
 
