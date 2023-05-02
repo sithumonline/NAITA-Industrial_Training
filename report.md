@@ -28,8 +28,9 @@ through innovation, R & D, training, industrial services and international colla
 ## 1.6 Management Practices
 ### 1.6.1 Opportunity
 
-The total number of staffs, according to the annual report 31.12.2016.
-- Top Management 03
+The total number of staffs, according to the annual report 31.12.2019.
+
+<!-- - Top Management 03
 - Engineers 10
 - scientists 15
 - Other executives 10
@@ -37,7 +38,42 @@ The total number of staffs, according to the annual report 31.12.2016.
 - Management Assistants (Technological) 21
 - Management Assistants (None-Technological) 51
 - Primary Level Staff 145
-- Total Number of employees 100
+- Total Number of employees 100 -->
+
+Communication division
+
+- Engineers 07
+- Scientists 01
+- Senior Scientists 01
+- Assistant Engineers 02
+- Engineering Assistants 02
+- Lab Attendants 01
+- Secretary 01
+- **Total 15**
+
+Electronic division
+
+- Engineers 02
+- Senior Engineers 02
+- Assistant Engineers 01
+- Engineering Assistants 01
+- Lab Attendants 01
+- **Total 07**
+
+LSD division
+
+- Engineers 03
+- Assistant Engineers 02
+- Engineering Assistants 01
+- **Total 06**
+
+IT division
+
+- Senior Engineers 02
+- Data Analyst 01
+- Engineers 01
+- Network Administrator 01
+- **Total 05**
 
 ### 1.6.2 EPF, ETF and Compensations
 
